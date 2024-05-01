@@ -84,14 +84,18 @@
 <!--<a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>-->
-<a href="https://www.facebook.com/" target="_blank"><!--Falta agregar usuario-->
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+
+  
+<!--<a href="https://www.facebook.com/" target="_blank"><!--Falta agregar usuario-->-->
+<!--<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-<a href="https://linkedin.com/in/" target="_blank"> <!--Falta agregar usuario-->
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<a href="https://linkedin.com/in/" target="_blank"> <!--Falta agregar usuario-->-->
+<!--<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>-->
 </div>  
 <br/>
+
+
 <div align="center" style="display:inline-block;flex-wrap:nowrap";> 
 <img src="https://drive.google.com/uc?id=1Wt-an4wkMqJXlALbLFYkhXFcmrSk26cu" style="height:190px"/>
 
