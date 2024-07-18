@@ -7,7 +7,7 @@
   <img src="https://drive.google.com/uc?id=1Kkxy3pABvXp6TkS7u0WEkWQCzMmYSPIc" style="width:230px"/>
 </div>
 
-### <div align="center">I'm a Student of ITESCAM, CALKINÍ-CAMPECHE. I like to learn new development technologies.</div>
+### <div align="center">I'm a Computer systems engineer, HECELCHAKÁN-CAMPECHE. I like to learn new development technologies.</div>
 
 
 - 🔭 I’m currently looking for internship
