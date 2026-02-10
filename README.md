@@ -101,7 +101,8 @@
 
 <img
   src="https://drive.google.com/uc?id=1M8NAFpC3s6xXFblCUiZR264xpKXHIkCX"
-  alt="adam-pw"
+  style="width:20px"
+  alt="adam-pw" 
 />
 
 </div>
